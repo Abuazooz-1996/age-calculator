@@ -117,22 +117,25 @@ body{
         align-items: center;
         text-align: center;
         padding: 30px;
+        margin: 130px 0 0 60px;
     }
     .age .box{
         width: 70%;
-        padding-right: 75px;
     }
     .age .box input{
         text-align: center;
     }
     .text{
         font-size: 1.5em;
-        margin-left: 60px;
+        margin: 10px 0 0 165px;
     }
     .text div{
         justify-content: center;
     }
+    .line{
+        width: 100%;
+    }
     .line img{
-        right: 170px;
+        right: 225px;
     }
 }
